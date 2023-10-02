@@ -12,3 +12,10 @@ $ npm run start
 # unit tests
 $ npm run test
 ```
+
+## TODO
+
+```bash
+- Add validation pipes
+- Add endpoint tests
+```
